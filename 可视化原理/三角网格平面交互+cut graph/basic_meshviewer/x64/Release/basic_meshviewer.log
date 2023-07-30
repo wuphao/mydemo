@@ -1,0 +1,37 @@
+﻿  main.cpp
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\keyInter\viewerKeyInter.h(39,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\ImpOperS.h(34,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\ImpOperS.h(46,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerCore\viewer.h(70,27): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerCore\viewer.h(70,31): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerCore\viewer.h(70,35): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(44,43): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(28,16): message : 在编译 类 模板 成员函数“void Viewer::CDrawVertices<MeshLib::CTMesh>::impOper(void)”时
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\main.cpp(30,45): message : 查看对正在编译的 类 模板 实例化“Viewer::CDrawVertices<MeshLib::CTMesh>”的引用
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(44,33): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(44,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(48,67): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(48,49): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(48,31): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(78,50): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(69,16): message : 在编译 类 模板 成员函数“void Viewer::CDrawVisibleFaces<MeshLib::CTMesh>::impOper(void)”时
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\main.cpp(29,49): message : 查看对正在编译的 类 模板 实例化“Viewer::CDrawVisibleFaces<MeshLib::CTMesh>”的引用
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(78,35): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(78,20): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(43,61): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(29,16): message : 在编译 类 模板 成员函数“void Viewer::CDrawColoredEdges<MeshLib::CTMesh>::impOper(void)”时
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\main.cpp(28,49): message : 查看对正在编译的 类 模板 实例化“Viewer::CDrawColoredEdges<MeshLib::CTMesh>”的引用
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(43,44): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(43,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(46,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(45,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(44,52): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(49,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(48,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\study\上机\第三&第五次作业\zzzlib\basic_meshviewer\viewerDraw\Drawer.h(47,52): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  2 of 1481 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  basic_meshviewer.vcxproj -> D:\study\上机\第三&第五次作业\basic_meshviewer\x64\Release\basic_meshviewer.exe
