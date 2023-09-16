@@ -1,5 +1,0 @@
-C:\Users\ShawnZhengXP\Desktop\编程开发框架\basic_meshviewer\x64\Release\basic_meshviewer.exe
-E:\Workspace\第四次作业\basic_meshviewer\x64\Release\basic_meshviewer.exe
-C:\Users\吴\Documents\WeChat Files\wxid_4m9pycgd94x422\FileStorage\File\2023-06\可视化上机（四面体&CutGraph)\第四次作业\basic_meshviewer\x64\Release\basic_meshviewer.exe
-D:\学习\可视化上机（四面体&CutGraph)\第四次作业\basic_meshviewer\x64\Release\basic_meshviewer.exe
-D:\study\上机\第四次作业\basic_meshviewer\x64\Release\basic_meshviewer.exe

@@ -1,8 +1,0 @@
-﻿  main.cpp
-C:\Users\patie\Desktop\编程框架\zzzlib\viewer\viewer.h(320,40): warning C4305: “初始化”: 从“double”到“GLfloat”截断
-  正在生成代码
-  2 of 211 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    8 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  basic_opengl.vcxproj -> C:\Users\patie\Desktop\编程框架\basic_opengl\../zzzbin/basic_opengl/basic_opengl.exe

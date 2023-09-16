@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\MeshLib\Mesh\BaseMesh.h(846,38): error C3878: 语法错误: "expression" 后出现意外标记 "标识符"
-C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\MeshLib\Mesh\BaseMesh.h(846,38): message : 已跳过错误恢复:“标识符 = 标识符  . . . (”
-C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\MeshLib\Mesh\BaseMesh.h(891,1): fatal  error C1903: 无法从以前的错误中恢复；正在停止编译
